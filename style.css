@@ -1,0 +1,20 @@
+.jumbotron {
+    padding-top: 6rem;
+    background-color: rgb(244, 244, 244);
+}
+
+#dudi {
+    color: rgb(71, 71, 71);
+}
+
+#visi-misi {
+    background-color: rgb(244, 244, 244);
+}
+
+#project {
+    color: rgb(71, 71, 71);
+}
+
+section {
+    padding-top: 5rem;
+}
